@@ -1,0 +1,4 @@
+user: admin
+contraseña: admin
+
+No olvidar seleccionar ingresar como administrador!
